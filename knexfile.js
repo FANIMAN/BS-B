@@ -19,7 +19,7 @@ module.exports = {
       port: 5432,
       database: 'books',
       user: 'postgres',
-      password: 'fanimanfaniman'
+      password: 'fanimanfanimanxxxxxxx'
     }
   },
 

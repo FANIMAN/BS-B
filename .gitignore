@@ -1,2 +1,9 @@
 node_modules
 .vercel
+migrations
+dist
+public
+/node_modules
+/.pnp
+.pnp.js
+.knexfile.js
